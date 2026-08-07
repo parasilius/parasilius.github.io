@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <channel>
+    <title>
+      <![CDATA[  Expert Kitty  ]]>
+    </title>
+    <link> https://expert.kitty/franlin-theme/ </link>
+    <description>
+      <![CDATA[  Expert Kitty&#39;s personal website – I will keep you company&#33;  ]]>
+    </description>
+    <atom:link
+      href="https://expert.kitty/franlin-theme/feed.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+
+<item>
+  <title>
+    <![CDATA[  New Book in Progress: Kitty Book&#33;  ]]>
+  </title>
+  <link> https://expert.kitty/franlin-theme/publications/kitty-book/index.html </link>
+  <guid> https://expert.kitty/franlin-theme/publications/kitty-book/index.html </guid>
+  <description>
+    <![CDATA[  This is a kitty book&#33;  ]]>
+  </description>  
+  
+  <content:encoded>
+    <![CDATA[  
+<div class="card-container">
+    <div id="book1" class="card publication">
+        <div class="normal-card visible-content">
+            <div class="card-content">
+                <p id="paper-title">Kitty Book</p>
+                <p id="paper-author">Expert Kitty</p>
+                <p style="font-size: small;">Released under a BEAUTIFUL licence</p>
+            </div>
+        </div>
+    </div>
+</div> ]]>
+  </content:encoded>
+    
+  <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Expert Kitty</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Kitties are GOOOOOD&#33;  ]]>
+  </title>
+  <link> https://expert.kitty/franlin-theme/posts/post-pandemic-reflections/index.html </link>
+  <guid> https://expert.kitty/franlin-theme/posts/post-pandemic-reflections/index.html </guid>
+  <description>
+    <![CDATA[  In this post, I meow&#33;  ]]>
+  </description>  
+  
+  <content:encoded>
+    <![CDATA[  <h1 id="kitties_are_goooood">Kitties are GOOOOOD&#33;</h1><p>Published on: 2026-08-07</p>
+<p><i>In this post, I meow!</i></p><div class="franklin-toc"><ol><li>Introduction</li><li>Conclusion</li></ol></div>
+<h2 id="introduction">Introduction</h2>
+<p>Meooooowwwww&#33;</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>Meoooow??&#33;&#33;</p>
+ ]]>
+  </content:encoded>
+    
+  <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Expert Kitty</atom:name>
+  </atom:author>
+        
+</item>
+</channel></rss>
