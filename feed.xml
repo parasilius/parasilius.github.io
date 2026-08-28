@@ -23,25 +23,208 @@
 
 <item>
   <title>
-    <![CDATA[  New Book in Progress: Kitty Book&#33;  ]]>
+    <![CDATA[  Bye Kitty&#33;  ]]>
   </title>
-  <link> https://expert.kitty/franlin-theme/publications/kitty-book/index.html </link>
-  <guid> https://expert.kitty/franlin-theme/publications/kitty-book/index.html </guid>
+  <link> https://expert.kitty/franlin-theme/posts/bye-kitty/index.html </link>
+  <guid> https://expert.kitty/franlin-theme/posts/bye-kitty/index.html </guid>
+  <description>
+    <![CDATA[  In this post, I say farewell&#33;  ]]>
+  </description>  
+  
+  <content:encoded>
+    <![CDATA[  <h1 id="bye_kitty">Bye Kitty&#33;</h1><p>Published on: 2026-12-07</p>
+<p><i>In this post, I say farewell!</i></p><div class="franklin-toc"><ol><li>Introduction</li><li>Conclusion</li></ol></div>
+<h2 id="introduction">Introduction</h2>
+<p>Meooooowwwww&#33;</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>Meoooow??&#33;&#33;</p>
+ ]]>
+  </content:encoded>
+    
+  <pubDate>Mon, 07 Dec 2026 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Expert Kitty</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Hello Kitty&#33;  ]]>
+  </title>
+  <link> https://expert.kitty/franlin-theme/posts/hello-kitty/index.html </link>
+  <guid> https://expert.kitty/franlin-theme/posts/hello-kitty/index.html </guid>
+  <description>
+    <![CDATA[  In this post, I say hello&#33;  ]]>
+  </description>  
+  
+  <content:encoded>
+    <![CDATA[  <h1 id="hello_kitty">Hello Kitty&#33;</h1><p>Published on: 2026-10-11</p>
+<p><i>In this post, I say hello!</i></p><div class="franklin-toc"><ol><li>Introduction</li><li>Conclusion</li></ol></div>
+<h2 id="introduction">Introduction</h2>
+<p>Meooooowwwww&#33;</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>Meoooow??&#33;&#33;</p>
+ ]]>
+  </content:encoded>
+    
+  <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Expert Kitty</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Hi Kitty&#33;  ]]>
+  </title>
+  <link> https://expert.kitty/franlin-theme/posts/hi-kitty/index.html </link>
+  <guid> https://expert.kitty/franlin-theme/posts/hi-kitty/index.html </guid>
+  <description>
+    <![CDATA[  In this post, I say hi&#33;  ]]>
+  </description>  
+  
+  <content:encoded>
+    <![CDATA[  <h1 id="hi_kitty">Hi Kitty&#33;</h1><p>Published on: 2026-09-07</p>
+<p><i>In this post, I say hi!</i></p><div class="franklin-toc"><ol><li>Introduction</li><li>Conclusion</li></ol></div>
+<h2 id="introduction">Introduction</h2>
+<p>Meooooowwwww&#33;</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>Meoooow??&#33;&#33;</p>
+ ]]>
+  </content:encoded>
+    
+  <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Expert Kitty</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  New Book from Camus&#33;  ]]>
+  </title>
+  <link> https://expert.kitty/franlin-theme/books/kitty-book3/index.html </link>
+  <guid> https://expert.kitty/franlin-theme/books/kitty-book3/index.html </guid>
+  <description>
+    <![CDATA[  This is a book by Jane Austen&#33;  ]]>
+  </description>  
+  
+  <content:encoded>
+    <![CDATA[  
+<div id="book3" class="card publication" style="width: 100% !important; margin: 0 !important; box-sizing: border-box !important;">
+    <div class="normal-card">
+        <div class="card-content">
+            <img alt="Persuasion Cover" 
+                    src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='150' height='200' viewBox='0 0 150 200'%3E%3Crect width='150' height='200' fill='%232ecc71'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' font-family='Arial' font-size='18' fill='white'%3ECover 3%3C/text%3E%3C/svg%3E" 
+                    style="width: 100%; height: auto; display: block; border-radius: 4px; margin-bottom: 8px;" />
+            <p id="paper-title" style="margin: 4px 0; font-weight: bold;">Persuasion</p>
+            <p id="paper-author" style="margin: 0; font-size: 0.85rem;">Jane Austen</p>
+        </div>
+    </div>    <div class="review-card hidden-content">
+        <div class="card-content">
+            <p id="paper-title" style="margin: 4px 0; font-weight: bold;">Persuasion</p>
+            <p id="paper-author" style="margin: 0 0 8px 0; font-size: 0.85rem;">Jane Austen</p>
+            <div class="review-text" style="text-align: left; font-size: 0.8rem; line-height: 1.4;">
+                <p style="margin: 0;">A novel exploring second chances, personal growth, and enduring affection.</p>
+            </div>
+        </div>
+    </div>    <div class="publication-buttons" style="margin-top: 8px;">
+        <a onclick="toggleBookContent(this)" class="button-6" role="button" style="width: 100%; box-sizing: border-box; text-align: center; display: block;">My Review</a>
+    </div>
+</div> ]]>
+  </content:encoded>
+    
+  <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Expert Kitty</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  New Book from Camus&#33;  ]]>
+  </title>
+  <link> https://expert.kitty/franlin-theme/books/kitty-book2/index.html </link>
+  <guid> https://expert.kitty/franlin-theme/books/kitty-book2/index.html </guid>
   <description>
     <![CDATA[  This is a kitty book&#33;  ]]>
   </description>  
   
   <content:encoded>
     <![CDATA[  
-<div class="card-container">
-    <div id="book1" class="card publication">
-        <div class="normal-card visible-content">
-            <div class="card-content">
-                <p id="paper-title">Kitty Book</p>
-                <p id="paper-author">Expert Kitty</p>
-                <p style="font-size: small;">Released under a BEAUTIFUL licence</p>
+<div id="book2" class="card publication" style="width: 100% !important; margin: 0 !important; box-sizing: border-box !important;">
+    <div class="normal-card">
+        <div class="card-content">
+            <img alt="Kitty Book Cover" 
+                    src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='150' height='200' viewBox='0 0 150 200'%3E%3Crect width='150' height='200' fill='%233498db'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' font-family='Arial' font-size='18' fill='white'%3ECover 2%3C/text%3E%3C/svg%3E" 
+                    style="width: 100%; height: auto; display: block; border-radius: 4px; margin-bottom: 8px;" />
+            <p id="paper-title" style="margin: 4px 0; font-weight: bold;">Kitty Book</p>
+            <p id="paper-author" style="margin: 0; font-size: 0.85rem;">Expert Kitty</p>
+        </div>
+    </div>    <div class="review-card hidden-content">
+        <div class="card-content">
+            <p id="paper-title" style="margin: 4px 0; font-weight: bold;">Kitty Book</p>
+            <p id="paper-author" style="margin: 0 0 8px 0; font-size: 0.85rem;">Expert Kitty</p>
+            <div class="review-text" style="text-align: left; font-size: 0.8rem; line-height: 1.4;">
+                <p style="margin: 0;">Essential feline skills, from 18-hour naps to strategic window watching.</p>
             </div>
         </div>
+    </div>    <div class="publication-buttons" style="margin-top: 8px;">
+        <a onclick="toggleBookContent(this)" class="button-6" role="button" style="width: 100%; box-sizing: border-box; text-align: center; display: block;">My Review</a>
+    </div>
+</div> ]]>
+  </content:encoded>
+    
+  <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Expert Kitty</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  New Publication in Kitty Journal&#33;  ]]>
+  </title>
+  <link> https://expert.kitty/franlin-theme/articles/kitty-pub/index.html </link>
+  <guid> https://expert.kitty/franlin-theme/articles/kitty-pub/index.html </guid>
+  <description>
+    <![CDATA[  This is a kitty publication&#33;  ]]>
+  </description>  
+  
+  <content:encoded>
+    <![CDATA[  
+<div id="pub1" class="card publication">
+    <div class="normal-card">
+        <div class="card-content">
+            <p id="paper-title">Kitty Book</p>
+            <p id="paper-author">Expert Kitty</p>
+            <p style="font-size: small;">Released under a BEAUTIFUL licence</p>
+        </div>
+    </div>
+    <div class="review-card hidden-content">
+        <div class="card-content">
+            <p class="paper-abstract">
+                This publication covers essential feline skills, from mastering 18-hour naps to strategic window watching.
+            </p>
+        </div>
+    </div>
+    <div class="publication-buttons">
+        <a onclick="togglePublicationContent(this)" class="button-6" role="button">Abstract</a>
     </div>
 </div> ]]>
   </content:encoded>
@@ -57,16 +240,118 @@
 
 <item>
   <title>
-    <![CDATA[  Kitties are GOOOOOD&#33;  ]]>
+    <![CDATA[  New Book from Camus&#33;  ]]>
   </title>
-  <link> https://expert.kitty/franlin-theme/posts/post-pandemic-reflections/index.html </link>
-  <guid> https://expert.kitty/franlin-theme/posts/post-pandemic-reflections/index.html </guid>
+  <link> https://expert.kitty/franlin-theme/books/kitty-book1/index.html </link>
+  <guid> https://expert.kitty/franlin-theme/books/kitty-book1/index.html </guid>
+  <description>
+    <![CDATA[  This is a kitty book&#33;  ]]>
+  </description>  
+  
+  <content:encoded>
+    <![CDATA[  
+<div id="book1" class="card publication" style="width: 100% !important; margin: 0 !important; box-sizing: border-box !important;">
+    <div class="normal-card">
+        <div class="card-content">
+            <img alt="The Stranger Cover" 
+                    src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='150' height='200' viewBox='0 0 150 200'%3E%3Crect width='150' height='200' fill='%23e74c3c'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' font-family='Arial' font-size='18' fill='white'%3ECover 1%3C/text%3E%3C/svg%3E" 
+                    style="width: 100%; height: auto; display: block; border-radius: 4px; margin-bottom: 8px;" />
+            <p id="paper-title" style="margin: 4px 0; font-weight: bold;">The Stranger</p>
+            <p id="paper-author" style="margin: 0; font-size: 0.85rem;">Albert Camus</p>
+        </div>
+    </div>    <div class="review-card hidden-content">
+        <div class="card-content">
+            <p id="paper-title" style="margin: 4px 0; font-weight: bold;">The Stranger</p>
+            <p id="paper-author" style="margin: 0 0 8px 0; font-size: 0.85rem;">Albert Camus</p>
+            <div class="review-text" style="text-align: left; font-size: 0.8rem; line-height: 1.4;">
+                <p style="margin: 0;">A novel exploring the absurdity of life through Meursault in French Algeria.</p>
+            </div>
+        </div>
+    </div>    <div class="publication-buttons" style="margin-top: 8px;">
+        <a onclick="toggleBookContent(this)" class="button-6" role="button" style="width: 100%; box-sizing: border-box; text-align: center; display: block;">My Review</a>
+    </div>
+</div> ]]>
+  </content:encoded>
+    
+  <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Expert Kitty</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Hoy Kitty&#33;  ]]>
+  </title>
+  <link> https://expert.kitty/franlin-theme/posts/hoy-kitty/index.html </link>
+  <guid> https://expert.kitty/franlin-theme/posts/hoy-kitty/index.html </guid>
+  <description>
+    <![CDATA[  In this post, I say hoy&#33;  ]]>
+  </description>  
+  
+  <content:encoded>
+    <![CDATA[  <h1 id="hoy_kitty">Hoy Kitty&#33;</h1><p>Published on: 2026-05-07</p>
+<p><i>In this post, I say hoy!</i></p><div class="franklin-toc"><ol><li>Introduction</li><li>Conclusion</li></ol></div>
+<h2 id="introduction">Introduction</h2>
+<p>Meooooowwwww&#33;</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>Meoooow??&#33;&#33;</p>
+ ]]>
+  </content:encoded>
+    
+  <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Expert Kitty</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Ta-ta Kitty&#33;  ]]>
+  </title>
+  <link> https://expert.kitty/franlin-theme/posts/tata-kitty/index.html </link>
+  <guid> https://expert.kitty/franlin-theme/posts/tata-kitty/index.html </guid>
+  <description>
+    <![CDATA[  In this post, I say ta-ta&#33;  ]]>
+  </description>  
+  
+  <content:encoded>
+    <![CDATA[  <h1 id="ta-ta_kitty">Ta-ta Kitty&#33;</h1><p>Published on: 2026-01-03</p>
+<p><i>In this post, I say ta-ta!</i></p><div class="franklin-toc"><ol><li>Introduction</li><li>Conclusion</li></ol></div>
+<h2 id="introduction">Introduction</h2>
+<p>Meooooowwwww&#33;</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>Meoooow??&#33;&#33;</p>
+ ]]>
+  </content:encoded>
+    
+  <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Expert Kitty</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Past Kitty  ]]>
+  </title>
+  <link> https://expert.kitty/franlin-theme/posts/past-kitty/index.html </link>
+  <guid> https://expert.kitty/franlin-theme/posts/past-kitty/index.html </guid>
   <description>
     <![CDATA[  In this post, I meow&#33;  ]]>
   </description>  
   
   <content:encoded>
-    <![CDATA[  <h1 id="kitties_are_goooood">Kitties are GOOOOOD&#33;</h1><p>Published on: 2026-08-07</p>
+    <![CDATA[  <h1 id="past_kitty">Past Kitty</h1><p>Published on: 2024-11-04</p>
 <p><i>In this post, I meow!</i></p><div class="franklin-toc"><ol><li>Introduction</li><li>Conclusion</li></ol></div>
 <h2 id="introduction">Introduction</h2>
 <p>Meooooowwwww&#33;</p>
@@ -75,7 +360,7 @@
  ]]>
   </content:encoded>
     
-  <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>  
+  <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
