@@ -2,7 +2,7 @@
 
 \toc
 
-## Books
+## Journal Articles
 
 ~~~
 <div class="card-container">
@@ -12,7 +12,7 @@
 </div>
 ~~~
 
-## Publications
+## Books
 
 ~~~
 <div class="book-container">
